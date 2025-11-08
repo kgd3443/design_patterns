@@ -3,22 +3,22 @@
 ## 기본 예제 실행 이미지
 
 1. singleton
-![singleton](.images/singleton.png)
+![singleton](images/singleton.png)
 
 2. factory
-![factory](.images/factory.png)
+![factory](images/factory.png)
 
 3. adapter
-![adapter](.images/adapter.png)
+![adapter](images/adapter.png)
 
 4. decorator
-![decorator](.images/decorator.png)
+![decorator](images/decorator.png)
 
 5. observer
-![observer](.images/observer.png)
+![observer](images/observer.png)
 
 6. visitor
-![visitor](.images/visitor.png)
+![visitor](images/visitor.png)
 
 ## 실습 구현 과제
 
