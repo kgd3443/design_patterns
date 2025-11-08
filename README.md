@@ -3,28 +3,28 @@
 ## 기본 예제 실행 이미지
 
 1. singleton
-![singleton](images/singleton.png)
+![singleton](.images/singleton.png)
 
 2. factory
-![factory](images/factory.png)
+![factory](.images/factory.png)
 
 3. adapter
-![adapter](images/adapter.png)
+![adapter](.images/adapter.png)
 
 4. decorator
-![decorator](images/decorator.png)
+![decorator](.images/decorator.png)
 
 5. observer
-![observer](images/observer.png)
+![observer](.images/observer.png)
 
 6. visitor
-![visitor](images/visitor.png)
+![visitor](.images/visitor.png)
 
 ## 실습 구현 과제
 
 1. abstract-factory
-   ![mac](images/mac.png)
-   ![window](images/window.png)
+![mac](images/mac.png)
+![window](images/window.png)
 ```
 
 연관성이 있는 객체 군이 여러개 있을 경우 이들을 묶어 추상화하고, 
@@ -34,7 +34,7 @@
 핵심은 제품 '군' 집합을 타입별로 찍을 수 있다는것
 ```
 2. facade
-   ![facade](images/facade.png)
+![facade](images/facade.png)
 ```
 
 요약 : 복잡한 서브 클래스들의 공통적인 기능을 정의하는 상위 수준의 인터페이스를 제공하는 패턴입니다.
@@ -48,7 +48,7 @@
 
 ```
 3. strategy
-   ![strategy](images/strategy.png)
+![strategy](images/strategy.png)
 ```
 
 객체들이 할 수 있는 행위 각각에 대해 전략 클래스를 생성하고, 
